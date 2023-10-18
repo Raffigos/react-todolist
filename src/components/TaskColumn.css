@@ -1,0 +1,9 @@
+.task__columnHeading {
+  display: flex;
+  align-items: center;
+}
+
+.task__columnIcon {
+  width: 30px;
+  margin-right: 5px;
+}
